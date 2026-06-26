@@ -1,0 +1,18 @@
+@import url("bootstrap.css");
+body{
+    background-color: bisque;
+}
+.services-card{
+    background-color: rgb(211, 177, 205);
+
+}
+.alerts-card{
+    background-color: rgb(218, 231, 171);
+
+}
+.logs-card{
+    background-color: rgb(131, 234, 234);
+}
+.settings-card{
+    background-color: rgb(135, 218, 241);
+}
